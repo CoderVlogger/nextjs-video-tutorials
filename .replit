@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "cd step1 && npm install && npm run dev"
